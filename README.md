@@ -1,6 +1,6 @@
 # Microsoft-Azure-Project
 ## HoneyPot With Microsft VM
-### test
+
 The objective of this project was to illustrate proficiency in network security practices and the utilization of cloud resources to monitor and analyze cybersecurity threats. By configuring a honeypot within a Microsoft Azure VM, I successfully simulated an environment with deliberately open ports to attract and log unauthorized access attempts. This initiative reflects a scenario akin to what might be deployed as a defensive measure within an enterprise or educational institution's IT infrastructure inspired by a tutorial by [Josh Madakor](https://www.youtube.com/@JoshMadakor)
 
 ## Create VM in Azure while leaving the ports open to traffic (Creating an interesting target for attackers!)
